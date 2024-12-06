@@ -1,0 +1,47 @@
+[
+    {
+        "author":"Comet Protocol",
+        "id":"Comet Protocol",
+        "title":"Comet Protocol",
+        "logo":"",
+        "logoDarkMode":"",
+        "categories":[
+           "Bridge"
+        ],
+        "shortDescription":"☄️The seamless interlink communication aggregator for Ethereum, Bitcoin and all Layer 1s.",
+        "site":"https://cometbridge.app/",
+        "description":"☄️The seamless interlink communication aggregator for Ethereum, Bitcoin and all Layer 1s.",
+        "url":"https://cometbridge.app/",
+        "external":true
+     },
+     {
+        "author":"Emmet Finance",
+        "id":"Emmet Finance",
+        "title":"Emmet Finance",
+        "logo":"",
+        "logoDarkMode":"",
+        "categories":[
+           "Bridge"
+        ],
+        "shortDescription":"Emmet Finance is a cross-chain Bridge, Swap Aggregator, and the  provider of a Cross-Chain Messaging (CCM) protocol on the TON and EVM blockchains.",
+        "site":"https://emmet.finance",
+        "description":"Emmet Finance is a cross-chain Bridge, Swap Aggregator, and the  provider of a Cross-Chain Messaging (CCM) protocol on the TON and EVM blockchains, enabling seamless, scalable connections across leading blockchain networks, including Ethereum, Bitcoin, TON, Solana, Polygon, Bitcoin Layer-2s, and more",
+        "url":"https://emmet.finance",
+        "external":true
+     },
+     {
+        "author":"NFTs2Me",
+        "id":"NFTs2Me",
+        "title":"NFTs2Me",
+        "logo":"",
+        "logoDarkMode":"",
+        "categories":[
+           "NFT"
+        ],
+        "shortDescription":"NFTs2Me is a multichain user-friendly comprehensive platform to create, deploy and manage your NFT collection",
+        "site":"https://nfts2me.com/",
+        "description":"NFTs2Me is a multichain user-friendly comprehensive platform to create, deploy and manage your NFT collection and community, 100% free with advanced functionalities.",
+        "url":"https://nfts2me.com/",
+        "external":true
+     }
+]
