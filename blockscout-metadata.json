@@ -3,8 +3,8 @@
         "author":"Comet Protocol",
         "id":"Comet Protocol",
         "title":"Comet Protocol",
-        "logo":"",
-        "logoDarkMode":"",
+        "logo":"https://creator-blockchain.github.io/blockscout-assets/comet.png",
+        "logoDarkMode":"https://creator-blockchain.github.io/blockscout-assets/comet.png",
         "categories":[
            "Bridge"
         ],
@@ -18,8 +18,8 @@
         "author":"Emmet Finance",
         "id":"Emmet Finance",
         "title":"Emmet Finance",
-        "logo":"",
-        "logoDarkMode":"",
+        "logo":"https://creator-blockchain.github.io/blockscout-assets/emmet.jpg",
+        "logoDarkMode":"https://creator-blockchain.github.io/blockscout-assets/emmet.jpg",
         "categories":[
            "Bridge"
         ],
@@ -33,8 +33,8 @@
         "author":"NFTs2Me",
         "id":"NFTs2Me",
         "title":"NFTs2Me",
-        "logo":"",
-        "logoDarkMode":"",
+        "logo":"https://creator-blockchain.github.io/blockscout-assets/nfts2me.png",
+        "logoDarkMode":"https://creator-blockchain.github.io/blockscout-assets/nfts2me.png",
         "categories":[
            "NFT"
         ],
