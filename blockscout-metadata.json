@@ -6,7 +6,7 @@
         "logo":"https://creator-blockchain.github.io/blockscout-assets/comet.png",
         "logoDarkMode":"https://creator-blockchain.github.io/blockscout-assets/comet.png",
         "categories":[
-           "Bridge"
+           "Bridges"
         ],
         "shortDescription":"☄️The seamless interlink communication aggregator for Ethereum, Bitcoin and all Layer 1s.",
         "site":"https://cometbridge.app/",
@@ -21,7 +21,7 @@
         "logo":"https://creator-blockchain.github.io/blockscout-assets/emmet.jpg",
         "logoDarkMode":"https://creator-blockchain.github.io/blockscout-assets/emmet.jpg",
         "categories":[
-           "Bridge"
+           "Bridges"
         ],
         "shortDescription":"Emmet Finance is a cross-chain Bridge, Swap Aggregator, and the  provider of a Cross-Chain Messaging (CCM) protocol on the TON and EVM blockchains.",
         "site":"https://emmet.finance",
@@ -36,7 +36,7 @@
         "logo":"https://creator-blockchain.github.io/blockscout-assets/nfts2me.png",
         "logoDarkMode":"https://creator-blockchain.github.io/blockscout-assets/nfts2me.png",
         "categories":[
-           "NFT"
+           "NFTs"
         ],
         "shortDescription":"NFTs2Me is a multichain user-friendly comprehensive platform to create, deploy and manage your NFT collection",
         "site":"https://nfts2me.com/",
