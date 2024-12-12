@@ -43,5 +43,20 @@
         "description":"NFTs2Me is a multichain user-friendly comprehensive platform to create, deploy and manage your NFT collection and community, 100% free with advanced functionalities.",
         "url":"https://nfts2me.com/",
         "external":true
+     },
+     {
+        "author":"ZNS Connect",
+        "id":"ZNS Connect",
+        "title":"ZNS Connect",
+        "logo":"https://creator-blockchain.github.io/blockscout-assets/zns-light.png",
+        "logoDarkMode":"https://creator-blockchain.github.io/blockscout-assets/zns-dark.png",
+        "categories":[
+           "NFT"
+        ],
+        "shortDescription":"Decentralized naming solutions for the #Web3 era. Personalized for blockchain interactions",
+        "site":"https://www.znsconnect.io/",
+        "description":"Decentralized naming solutions for the #Web3 era. Personalized for blockchain interactions",
+        "url":"https://www.znsconnect.io/",
+        "external":true
      }
 ]
